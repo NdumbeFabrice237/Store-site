@@ -15,7 +15,7 @@ const products = [
     price: 55000,
     category: "Running",
     image:
-      "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/0d9a0e0a0b5c4b6a9b3daa0a00f0d3a5_9366/Ultraboost_21_Shoes_White_FY0376_01_standard.jpg",
+      "https://di2ponv0v5otw.cloudfront.net/posts/2022/11/22/637d5b077dfcc21272eb690f/m_637d5bf5eb7e7afd1bd3bdc3.jpg",
   },
   {
     id: 3,
@@ -31,7 +31,7 @@ const products = [
     price: 30000,
     category: "Casual",
     image:
-      "https://images-na.ssl-images-amazon.com/images/I/71q%2B1Q%2B%2B%2B%2BL._AC_UX500_.jpg",
+      "https://images.awsmcdn.com/product/360/460/i50/s800/converse-chuck-taylor-all-star-hi-friendly-floral-white-pixel-purple-canvas.jpg",
   },
   {
     id: 5,
@@ -46,14 +46,14 @@ const products = [
     price: 45000,
     category: "Casual",
     image:
-      "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/8a0d9a0a0b5c4b6a9b3daa0a00f0d3a5_9366/Classic_Leather_Shoes_White_49799_01_standard.jpg",
+      "https://images.reebok.eu/reebok-classic-leather-sp-shoes_19727346_44790962_2048.jpg?c=1",
   },
   {
     id: 7,
     name: "New Balance 574",
     price: 50000,
     category: "Running",
-    image: "https://nb.scene7.com/is/image/NB/ml574v2_nb_02_i?$pdpPictLG$",
+    image: "https://m.media-amazon.com/images/I/71btIYoru2L._AC_SR920,736_.jpg",
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ const products = [
     price: 75000,
     category: "Boots",
     image:
-      "https://images.drmartens.com / is / image / DrMartens / 11822006 - HERO ? $PDP - FULL - IMAGE$",
+      "https://d2ob0iztsaxy5v.cloudfront.net/product/144801/1448017020_zm.jpg",
   },
   {
     id: 10,
@@ -77,14 +77,14 @@ const products = [
     price: 400000,
     category: "Luxury",
     image:
-      "https://media.gucci.com/style/DarkGray_Center_0_0_1200x1200/1618569600/602010_A38G0_9064_001_100_0000_Light-Gucci-Print-Ace-sneaker.jpg",
+      "https://cdn-images.farfetch-contents.com/12/56/27/63/12562763_22135963_600.jpg",
   },
   {
     id: 11,
     name: "Balenciaga Triple S",
     price: 600000,
     category: "Luxury",
-    image: "https://www.balenciaga.com/66/11/12331111pv_20_f.jpg",
+    image: "https://cms-cdn.thesolesupplier.co.uk/2022/07/balenciaga-triple-s-red.jpg",
   },
   {
     id: 12,
@@ -92,7 +92,7 @@ const products = [
     price: 45000,
     category: "Casual",
     image:
-      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/5a1d1b1e-5b1a-4b1a-8b1a-1b1a1b1a1b1a/air-force-1-07-mens-shoe-2XZzXK.jpg",
+      "https://sneakernews.com/wp-content/uploads/2021/11/Nike-Air-Force-1-Low-Pink-DO6724-601-5.jpg?w=1140",
   },
   {
     id: 13,
@@ -108,7 +108,7 @@ const products = [
     price: 60000,
     category: "Running",
     image:
-      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1d1c3b1e-5b1a-4b1a-8b1a-1b1a1b1a1b1a/air-jordan-1-mid-shoe-2XZzXK.jpg",
+      "https://cdn.shopify.com/s/files/1/2358/2817/products/nike-air-max-97-blueberry-wethenew-1_1.png?v=1655288554",
   },
   {
     id: 15,
@@ -116,7 +116,7 @@ const products = [
     price: 55000,
     category: "Running",
     image:
-      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1d1c3b1e-5b1a-4b1a-8b1a-1b1a1b1a1b1a/air-jordan-1-mid-shoe-2XZzXK.jpg",
+      "https://cdn.restocks.net/cdn-cgi/image/width=1000/storage/images/products/DC1161-100/1.png",
   },
   {
     id: 16,
@@ -124,7 +124,7 @@ const products = [
     price: 70000,
     category: "Running",
     image:
-      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1d1c3b1e-5b1a-4b1a-8b1a-1b1a1b1a1b1a/air-jordan-1-mid-shoe-2XZzXK.jpg",
+      "https://images.stockx.com/images/Nike-Air-Max-270-Essential-Black-Grey-Orange.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1647574275",
   },
   {
     id: 17,
@@ -132,7 +132,7 @@ const products = [
     price: 80000,
     category: "Running",
     image:
-      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1d1c3b1e-5b1a-4b1a-8b1a-1b1a1b1a1b1a/air-jordan-1-mid-shoe-2XZzXK.jpg",
+      "https://images.stockx.com/images/Nike-Air-Max-720-Pixel-Black-Blue.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1607669997",
   },
   {
     id: 18,
@@ -140,7 +140,7 @@ const products = [
     price: 90000,
     category: "Running",
     image:
-      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1d1c3b1e-5b1a-4b1a-8b1a-1b1a1b1a1b1a/air-jordan-1-mid-shoe-2XZzXK.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_k1lzdtClViEozvrsNjp43AtbTC_w9si_g&usqp=CAU",
   },
   {
     id: 19,
@@ -148,7 +148,7 @@ const products = [
     price: 70000,
     category: "Running",
     image:
-      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1d1c3b1e-5b1a-4b1a-8b1a-1b1a1b1a1b1a/air-jordan-1-mid-shoe-2XZzXK.jpg",
+      "https://cdn.shopify.com/s/files/1/2358/2817/products/NikeAirMaxPlusBlueBlack1.png?v=1652170726",
   },
   {
     id: 20,
@@ -156,7 +156,7 @@ const products = [
     price: 65000,
     category: "Running",
     image:
-      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1d1c3b1e-5b1a-4b1a-8b1a-1b1a1b1a1b1a/air-jordan-1-mid-shoe-2XZzXK.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwfsYPC1OVg-giWcBHCe1SOHp1Yg_TDoIZA&usqp=CAU",
   },
   {
     id: 21,
@@ -164,7 +164,7 @@ const products = [
     price: 65000,
     category: "Running",
     image:
-      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1d1c3b1e-5b1a-4b1a-8b1a-1b1a1b1a1b1a/air-jordan-1-mid-shoe-2XZzXK.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCrzwXWLaBB1LSx-AEaPSV76sUqI0PJfyvZw&usqp=CAU",
   },
   {
     id: 22,
@@ -172,7 +172,7 @@ const products = [
     price: 65000,
     category: "Running",
     image:
-      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/5a1d1b1e-5b1a-4b1a-8b1a-1b1a1b1a1b1a/air-force-1-07-mens-shoe-2XZzXK.jpg",
+      "https://www.outbacksylt.com/files/image/id/9846/fixed/1/w/1000/h/1000/n/nike-air-max-200-rasta-aq2568-101-1.jpg",
   },
 ];
 
